@@ -6,6 +6,7 @@ Si Δ < 0 : Deux solutions complexes sous la forme x=a+bix=a+bi.
 
 
 / Solveur_Equation_Second_Degre
+
 input.h ->Déclarations des fonctions pour récupérer les valeurs.
 
 input.cpp ->Implémentation des fonctions de saisie utilisateur.
